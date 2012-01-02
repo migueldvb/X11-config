@@ -1,0 +1,5 @@
+XTerm*eightBitInput:   false
+XTerm*metaSendsEscape: true
+XTerm*bellIsUrgent: true
+URxvt*urgentOnBell: true
+
