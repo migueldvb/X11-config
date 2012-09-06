@@ -1,4 +1,4 @@
-xrdb -merge ~/.Xresources
+xrdb -merge ~/X11/Xresources
 setxkbmap -option compose:rwin
 xset -b
 eval $(gpg-agent --daemon)
