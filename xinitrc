@@ -1,5 +1,5 @@
 xrdb -merge ~/X11/Xresources
-setxkbmap -option compose:rwin
+setxkbmap -option compose:caps
 xset -b
 eval $(gpg-agent --daemon)
 eval $(ssh-agent)
