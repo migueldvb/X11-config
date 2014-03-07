@@ -1,6 +1,7 @@
 XTerm*eightBitInput:   false
 XTerm*metaSendsEscape: true
 XTerm*bellIsUrgent: true
+Xterm*font:     *-fixed-*-*-*-18-*
 URxvt*urgentOnBell: true
 URxvt*termName: xterm
 
