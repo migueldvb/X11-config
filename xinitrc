@@ -10,5 +10,6 @@ setxkbmap -option compose:caps
 xset -b
 eval $(gpg-agent --daemon)
 eval $(ssh-agent)
+/usr/bin/redshift &
 #exec /usr/bin/i3 -V -d all >> ~/.i3/logfile
 exec /usr/bin/i3
